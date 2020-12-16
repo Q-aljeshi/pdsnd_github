@@ -8,8 +8,10 @@ Bikeshare app
 Creating a python program to show the data for the bikeshare app on the chosen city. the data varies from the most common used times to the user’s information.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Special thanks to bikeshare for allowing us to use their data to create this program in order to improve our python skills during our Udacity nano degree course.
 
