@@ -5,7 +5,7 @@ Project was created on the 15th of November 2020
 Bikeshare app
 
 ### Description
-Describe what your project is about and what it does
+Creating a python program to show the data for the bikeshare app on the chosen city. the data varies from the most common used times to the user’s information.
 
 ### Files used
 Include the files used
