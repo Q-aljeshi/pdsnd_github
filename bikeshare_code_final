@@ -166,7 +166,7 @@ def user_stats(df,city):
         if city == 'washington':
             break
         else:
-            # Display counts of gender
+            # Display counts of gender, this is not avalible for washington
             gender_count = df['Gender'].value_counts()
             print(gender_count)
             # Display earliest, most recent, and most common year of birth
@@ -194,7 +194,7 @@ def main():
         time_stats(df)
         station_stats(df)
         trip_duration_stats(df)
-        
+
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
