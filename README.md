@@ -1,5 +1,5 @@
 ### Date created
-Project was created on the 15th of November 2020
+Project was created on the 20th of November 2020.
 
 ### Project Title
 Bikeshare app
