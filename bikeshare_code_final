@@ -14,7 +14,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 def get_filters():
     while True:
         print('welcome to the Bikeshare app data centre')
-        city = input('\nchose a city from Chicago or New York City or Washington: ')
+        city = input('\nChose a city from Chicago or New York City or Washington to find data for: ')
         city = city.lower().strip()
         if city == 'chicago' or city == 'new york city' or city == 'washington':
             break
